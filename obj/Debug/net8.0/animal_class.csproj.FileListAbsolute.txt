@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\bin\Debug\net8.0\animal_class.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\bin\Debug\net8.0\animal_class.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\bin\Debug\net8.0\animal_class.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\bin\Debug\net8.0\animal_class.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\bin\Debug\net8.0\animal_class.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\refint\animal_class.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\animal_class.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\animal_class\obj\Debug\net8.0\ref\animal_class.dll
